@@ -1,0 +1,12 @@
+{
+  "open_ai_api_key": "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",
+  "single_chat_prefix": ["bot", "@bot"],                     
+  "single_chat_reply_prefix": "[bot]",                      
+  "group_chat_prefix": ["bot", "@bot",""],                            
+  "group_name_white_list": ["友达光电AIGC社区","ChatGPT游戏体验群","聊天测试1", "聊天测试2","登山小分队","聊天测试3","AIGC苏州社区","AIGC广州社区","chatgpt畅聊体验群④","chatgpt畅聊体验群①","chatgpt畅聊体验群②","chatgpt畅聊体验群③"],
+  "image_create_prefix": ["画", "看", "找"],                   
+  "conversation_max_tokens": 4000, 
+  "group_at_off": true,
+  "group_chat_reply_prefix": "[bot]",
+  "character_desc": "你是ChatGPT, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。" 
+}
