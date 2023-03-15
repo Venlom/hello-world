@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "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",
   "single_chat_prefix": ["bot", "@bot"],                     
   "single_chat_reply_prefix": "[bot]",                      
   "group_chat_prefix": ["bot", "@bot",""],                            
